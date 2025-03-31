@@ -1,0 +1,31 @@
+{
+    "name": "alireza/lara-artisan-service-maker",
+    "description": "Laravel package for make services or repository and their contracts",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alireza\\LaraArtisanServiceMaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alireza",
+            "email": "29.alirezajafari@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+        "illuminate/console": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alireza\\LaraArtisanServiceMaker\\ServiceMakerServiceProvider"
+            ]
+        }
+    }
+}
