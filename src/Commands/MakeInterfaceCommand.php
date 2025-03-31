@@ -1,6 +1,6 @@
 <?php
 
-namespace Alireza\LaraArtisanServiceMaker\Commands;
+namespace Alirezacrr\LaraArtisanServiceMaker\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;

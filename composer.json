@@ -14,7 +14,7 @@
             "email": "29.alirezajafari@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "php": "^7.3|^8.0",
@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Alireza\\LaraArtisanServiceMaker\\ServiceMakerServiceProvider"
+                "Alirezacrr\\LaraArtisanServiceMaker\\ServiceMakerServiceProvider"
             ]
         }
     }

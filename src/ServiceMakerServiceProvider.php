@@ -1,11 +1,11 @@
 <?php
 
-namespace Alireza\LaraArtisanServiceMaker;
+namespace Alirezacrr\LaraArtisanServiceMaker;
 
-use Alireza\LaraArtisanServiceMaker\Commands\MakeTraitCommand;
-use Alireza\LaraArtisanServiceMaker\Commands\MakeInterfaceCommand;
-use Alireza\LaraArtisanServiceMaker\Commands\MakeServiceCommand;
-use Alireza\LaraArtisanServiceMaker\Commands\MakeRepositoryCommand;
+use Alirezacrr\LaraArtisanServiceMaker\Commands\MakeTraitCommand;
+use Alirezacrr\LaraArtisanServiceMaker\Commands\MakeInterfaceCommand;
+use Alirezacrr\LaraArtisanServiceMaker\Commands\MakeServiceCommand;
+use Alirezacrr\LaraArtisanServiceMaker\Commands\MakeRepositoryCommand;
 use Illuminate\Support\ServiceProvider;
 
 class ServiceMakerServiceProvider extends ServiceProvider
