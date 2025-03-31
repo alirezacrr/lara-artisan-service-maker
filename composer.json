@@ -1,5 +1,5 @@
 {
-    "name": "alireza/lara-artisan-service-maker",
+    "name": "alirezacrr/lara-artisan-service-maker",
     "description": "Laravel package for make services or repository and their contracts",
     "type": "library",
     "license": "MIT",

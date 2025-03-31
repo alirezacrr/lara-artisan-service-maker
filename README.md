@@ -16,7 +16,7 @@ A Laravel package that provides Artisan commands to generate services, repositor
 You can install the package via composer:
 
 ```bash
-composer require alireza/lara-artisan-service-maker
+composer require alirezacrr/lara-artisan-service-maker
 ```
 
 The package will automatically register its service provider.
